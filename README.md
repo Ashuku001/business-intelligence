@@ -1,0 +1,1 @@
+This is a pdf file showing the results of a data analysis endpoint providing useful insights about products, customers and recommendations using statistics, machine learning and deep learning algoriths
